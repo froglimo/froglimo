@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @froglimo, real name is Max.
-- 🏰 My home country is Germany, but i also have also been living in the states for five years
+- 🏰 My country of birth is Germany, but i have also lived abroad in the US for four years and in Spain for 9 months
 - 👀 I’m interested in reading, technology, nature and animals and most importantly programming and computers
 - 🌱 I’m currently learning Python and C
 - 📫 How to reach me: melvis@posteo.de
