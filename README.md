@@ -2,7 +2,6 @@
 - 🏰 My country of birth is Germany
 - 👀 I’m interested in reading, technology, languages, nature and animals and most importantly programming and computers
 - 🌱 I’m currently learning C
-- 📫 How to reach me: melvis@posteo.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i wear glases
 
